@@ -1,0 +1,16 @@
+{
+  "name": "react-native-image-diff",
+  "version": "0.0.1",
+  "description": "React Native image diff component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "image",
+    "diff"
+  ],
+  "author": "Lucas Fronza",
+  "license": "MIT"
+}
