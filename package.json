@@ -43,5 +43,8 @@
       "FormData",
       "React$Element"
     ]
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
   }
 }
