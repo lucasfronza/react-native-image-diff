@@ -1,0 +1,2 @@
+# Avoid download of demo.gif on package install
+demo.gif

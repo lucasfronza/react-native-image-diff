@@ -1,0 +1,51 @@
+{
+  "name": "react-native-image-diff",
+  "version": "1.0.0",
+  "description": "React Native image diff component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard --verbose | snazzy",
+    "fixcode": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfronza/react-native-image-diff.git"
+  },
+  "keywords": [
+    "react-native",
+    "image",
+    "diff",
+    "component",
+    "swipe"
+  ],
+  "author": "Lucas Fronza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasfronza/react-native-image-diff/issues"
+  },
+  "homepage": "https://github.com/lucasfronza/react-native-image-diff#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "snazzy": "^8.0.0",
+    "standard": "^12.0.1"
+  },
+  "standard": {
+    "parser": "babel-eslint",
+    "globals": [
+      "describe",
+      "test",
+      "jest",
+      "expect",
+      "fetch",
+      "navigator",
+      "__DEV__",
+      "XMLHttpRequest",
+      "FormData",
+      "React$Element"
+    ]
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
