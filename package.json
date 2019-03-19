@@ -16,7 +16,8 @@
     "react-native",
     "image",
     "diff",
-    "component"
+    "component",
+    "swipe"
   ],
   "author": "Lucas Fronza",
   "license": "MIT",
