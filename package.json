@@ -1,6 +1,6 @@
 {
   "name": "react-native-image-diff",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "React Native image diff component",
   "main": "index.js",
   "scripts": {
